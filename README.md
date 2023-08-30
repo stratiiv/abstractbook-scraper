@@ -8,7 +8,7 @@ The script is specifically tailored to parse the PDF file named "Abstracts from 
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/stratiiv/IndeedScraper.git
+git clone https://github.com/stratiiv/abstractbook-scraper.git
 ```
 2. Install the required dependencies using Pipenv:
 ```bash
